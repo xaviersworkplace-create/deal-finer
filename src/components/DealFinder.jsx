@@ -10,7 +10,7 @@ const INITIAL_DEALS = [
     discount: '47% OFF',
     source: 'Amazon',
     image: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80',
-    affiliateLink: 'https://amazon.com/your-affiliate-tag-here',
+    affiliateLink: 'https://www.amazon.com/dp/B09Z2W153S?tag=dealhunte0580-20',
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const INITIAL_DEALS = [
     discount: '30% OFF',
     source: 'Amazon',
     image: 'https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80',
-    affiliateLink: 'https://amazon.com/your-affiliate-tag-here',
+    affiliateLink: 'https://www.amazon.com/dp/B07QB8V8XR?tag=dealhunte0580-20',
   },
   {
     id: 3,
@@ -30,9 +30,9 @@ const INITIAL_DEALS = [
     originalPrice: 149.99,
     dealPrice: 99.99,
     discount: '33% OFF',
-    source: 'AliExpress',
+    source: 'Amazon',
     image: 'https://images.unsplash.com/photo-1609592424104-97d4c4e752a2?auto=format&fit=crop&w=600&q=80',
-    affiliateLink: 'https://aliexpress.com/your-affiliate-tag-here',
+    affiliateLink: 'https://www.amazon.com/dp/B0BLHQCXXY?tag=dealhunte0580-20',
   },
 ];
 
